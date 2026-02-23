@@ -1,0 +1,95 @@
+feature,importance
+years_experience,0.484082360239299
+experience_level_enc,0.22639363276445496
+company_location_Switzerland,0.036642297558912656
+company_size_L,0.02858753043824652
+company_location_Denmark,0.025221278564893482
+company_location_Norway,0.022999477470099942
+company_location_India,0.018771431034484254
+company_location_Ireland,0.017761647009064196
+company_location_Austria,0.017486149267992097
+company_location_Japan,0.01713695288030984
+company_location_Finland,0.017125226523870912
+company_location_China,0.01666169794032452
+company_location_Israel,0.01615848172131793
+company_location_South Korea,0.015974853650155284
+company_size_S,0.01551464791511683
+company_location_United States,0.012040181339223004
+company_location_United Kingdom,0.0024689191070521826
+company_location_Singapore,0.0021302299449003927
+company_location_Netherlands,0.0016915875179519888
+benefits_score,0.0006261715456281258
+company_location_Sweden,0.0004329954887377313
+company_location_Germany,0.0003881498619137134
+company_location_Canada,0.0002779562513598607
+company_location_Australia,0.00019163971070786277
+skill_aws,0.00014791675352518615
+company_location_France,0.0001302182409813261
+skill_sql,0.00011986400590854225
+industry_Education,0.0001156492098726081
+job_title_Data Engineer,0.00011529712648240248
+skill_mlops,0.0001053510228146928
+job_title_AI Product Manager,9.617466682298712e-05
+industry_Gaming,9.475736192926179e-05
+skill_nlp,9.434619211813459e-05
+job_title_AI Software Engineer,8.629524357027154e-05
+job_title_AI Research Scientist,8.030327241079468e-05
+job_title_Principal Data Scientist,7.930735673479691e-05
+job_title_Computer Vision Engineer,7.742854756100166e-05
+remote_ratio_100,7.710396006739429e-05
+industry_Finance,7.561931574769144e-05
+industry_Media,7.50395673714566e-05
+job_title_Head of AI,6.87041191908957e-05
+skill_data_visualization,6.050073510619957e-05
+skill_java,6.0451056595664307e-05
+industry_Telecommunications,5.959820891162234e-05
+job_title_Data Analyst,5.828983820214591e-05
+skill_python,5.7858460682274474e-05
+skill_statistics,5.785402757298811e-05
+skill_azure,5.243136912351333e-05
+employment_type_FT,4.919897099361046e-05
+job_title_Machine Learning Researcher,4.4899509206722894e-05
+remote_ratio_0,4.484866319412358e-05
+employment_type_CT,4.2958218702106654e-05
+industry_Retail,4.26353454737028e-05
+education_required_enc,4.159102991032435e-05
+job_title_AI Architect,4.134340710345877e-05
+skill_gcp,4.101361577914288e-05
+industry_Consulting,4.07885573657417e-05
+skill_tensorflow,4.025011564467009e-05
+job_title_Deep Learning Engineer,3.9718214341042583e-05
+industry_Transportation,3.924833926566924e-05
+skill_linux,3.751035528800864e-05
+industry_Real Estate,3.7123115278057916e-05
+industry_Government,3.6810277663507626e-05
+skill_kubernetes,3.660691257114486e-05
+skill_r,3.571140490070819e-05
+job_title_Robotics Engineer,3.5215466524656675e-05
+job_title_AI Specialist,3.4883643872511126e-05
+skill_deep_learning,3.384940212819731e-05
+job_title_AI Consultant,3.075709928709677e-05
+skill_pytorch,3.0059657275949228e-05
+skill_docker,2.878951456981148e-05
+skill_scala,2.542947792497653e-05
+job_title_Machine Learning Engineer,2.109974092344902e-05
+industry_Energy,2.030518561311769e-05
+job_title_NLP Engineer,2.0132494822867444e-05
+industry_Healthcare,1.9969486627944746e-05
+skill_hadoop,1.9270572674195757e-05
+skill_git,1.8228031890547066e-05
+skill_mathematics,1.7318017969607633e-05
+industry_Automotive,1.6845320747137775e-05
+job_title_Autonomous Systems Engineer,1.539464414171658e-05
+remote_ratio_50,1.5002633083767887e-05
+employment_type_PT,1.4782979029417032e-05
+skill_spark,1.458994902043344e-05
+company_size_M,1.2042592061208226e-05
+job_title_ML Ops Engineer,1.1641401257416387e-05
+employment_type_FL,1.0041049140990475e-05
+skill_computer_vision,9.259107774615366e-06
+job_title_Data Scientist,7.501993091568678e-06
+job_title_Research Scientist,7.130610373147006e-06
+industry_Manufacturing,6.348470170967131e-06
+industry_Technology,0.0
+skill_tableau,0.0
+other_skills_count,0.0

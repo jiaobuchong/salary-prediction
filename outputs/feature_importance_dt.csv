@@ -1,0 +1,95 @@
+feature,importance
+experience_level_enc,0.6469617110515081
+years_experience,0.06337277976456383
+company_location_Switzerland,0.03955495632696417
+company_size_L,0.036891715666227905
+company_location_Denmark,0.030820682742628277
+company_location_Norway,0.03048817518770848
+company_location_United States,0.021732512949304825
+company_location_Singapore,0.013988140986116357
+company_location_Sweden,0.013538863554969909
+company_location_United Kingdom,0.013466459521536897
+company_location_Australia,0.013412927795685451
+company_location_Germany,0.013333914787433777
+company_location_Netherlands,0.012883248629522786
+company_location_Canada,0.012594700740893904
+company_location_France,0.01217935615988853
+benefits_score,0.002766866797463987
+company_size_M,0.0024903840759689638
+company_size_S,0.002073234672923976
+company_location_India,0.001645081077719254
+company_location_China,0.0015814109257759985
+company_location_Ireland,0.0015484800243244024
+company_location_Japan,0.0015477360979540456
+company_location_South Korea,0.0014627290718006647
+company_location_Austria,0.0014077868068781833
+company_location_Finland,0.001271938942320523
+company_location_Israel,0.0011536091502974267
+education_required_enc,0.000904820602510998
+remote_ratio_50,0.0005211450856520027
+remote_ratio_100,0.0004814016746406058
+employment_type_FL,0.0003819397538456064
+skill_python,0.000342276590350836
+skill_sql,0.0002958915867788904
+remote_ratio_0,0.00026284078036811027
+skill_tensorflow,0.00026180890577144313
+employment_type_FT,0.0002421344650937047
+skill_aws,0.0002126089035522805
+skill_hadoop,0.00018588460285519595
+skill_scala,0.00016937714577102653
+skill_data_visualization,0.00015887679214846503
+skill_pytorch,0.00014780949896437063
+skill_java,0.00014143546837717052
+skill_nlp,0.0001213819354848473
+skill_mathematics,0.0001151586464340821
+skill_kubernetes,0.00011383802090058004
+skill_azure,9.994749566658452e-05
+skill_r,9.550696937482771e-05
+skill_spark,8.523218901735861e-05
+skill_mlops,8.229009598657286e-05
+skill_gcp,6.397181765419508e-05
+skill_deep_learning,6.061522681330427e-05
+skill_linux,5.927281465859925e-05
+employment_type_PT,5.458199488513328e-05
+employment_type_CT,5.268522097552427e-05
+skill_git,4.30681327095376e-05
+skill_tableau,3.821268832564293e-05
+industry_Gaming,3.4581386051948885e-05
+skill_computer_vision,0.0
+skill_docker,0.0
+skill_statistics,0.0
+industry_Energy,0.0
+industry_Transportation,0.0
+job_title_Computer Vision Engineer,0.0
+job_title_ML Ops Engineer,0.0
+job_title_Head of AI,0.0
+job_title_Deep Learning Engineer,0.0
+job_title_Data Scientist,0.0
+job_title_Data Engineer,0.0
+job_title_Data Analyst,0.0
+job_title_Autonomous Systems Engineer,0.0
+industry_Telecommunications,0.0
+job_title_AI Specialist,0.0
+job_title_AI Software Engineer,0.0
+job_title_AI Research Scientist,0.0
+job_title_AI Product Manager,0.0
+job_title_AI Consultant,0.0
+job_title_AI Architect,0.0
+job_title_Machine Learning Engineer,0.0
+job_title_Machine Learning Researcher,0.0
+job_title_NLP Engineer,0.0
+job_title_Principal Data Scientist,0.0
+job_title_Research Scientist,0.0
+job_title_Robotics Engineer,0.0
+industry_Automotive,0.0
+industry_Consulting,0.0
+industry_Education,0.0
+industry_Finance,0.0
+industry_Government,0.0
+industry_Healthcare,0.0
+industry_Manufacturing,0.0
+industry_Media,0.0
+industry_Real Estate,0.0
+industry_Retail,0.0
+industry_Technology,0.0
+other_skills_count,0.0

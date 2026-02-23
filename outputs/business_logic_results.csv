@@ -1,0 +1,7 @@
+Model,Test1_YearsExp,Test2_ExpLevel
+Linear Regression,PASS,PASS
+Ridge,PASS,PASS
+Lasso,PASS,PASS
+Decision Tree,PASS,PASS
+Random Forest,FAIL,PASS
+Gradient Boosting,PASS,PASS

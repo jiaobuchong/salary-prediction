@@ -1,0 +1,95 @@
+feature,importance
+years_experience,0.35006908106656454
+experience_level_enc,0.3416421529502064
+company_location_Switzerland,0.039121079730131764
+company_size_L,0.03221442131154549
+company_location_Denmark,0.0307249932190821
+company_location_Norway,0.02980483486753028
+company_location_United States,0.021460581711091054
+company_location_United Kingdom,0.013333242323441378
+company_location_Singapore,0.013214427060031684
+company_location_Netherlands,0.01304184831253547
+company_location_Germany,0.012691977492202671
+company_location_Sweden,0.012444755761093674
+company_location_Australia,0.012251351622880175
+company_location_Canada,0.011333110896382545
+company_location_France,0.01130535394422334
+company_size_S,0.00787284003632129
+benefits_score,0.006521827042666756
+company_size_M,0.003912081585359665
+education_required_enc,0.0022546141059504314
+company_location_South Korea,0.0017630362463455988
+company_location_Finland,0.0016647043910869895
+company_location_China,0.001605410321290552
+company_location_Israel,0.0016052963654780874
+company_location_Ireland,0.0016005963713427046
+company_location_Japan,0.0015957214211576635
+company_location_India,0.001595381064535608
+company_location_Austria,0.0015603329637564872
+remote_ratio_100,0.0009929471688676157
+skill_python,0.0008516201709106632
+remote_ratio_50,0.0008498627283886484
+skill_sql,0.0008268794553254128
+remote_ratio_0,0.0008179038579697731
+employment_type_FT,0.0007750137042914861
+employment_type_FL,0.0007701441582624723
+skill_tensorflow,0.000688001038057926
+employment_type_PT,0.0006866695033409397
+employment_type_CT,0.000665691826725961
+skill_scala,0.0006361480732259815
+skill_kubernetes,0.0006301889946314971
+skill_git,0.0006077219375512418
+skill_java,0.0005952578401301906
+skill_linux,0.0005885599592124688
+skill_pytorch,0.0005424395554363014
+skill_computer_vision,0.000540610798599015
+skill_data_visualization,0.0005283640995298042
+skill_hadoop,0.0005192749255002804
+skill_deep_learning,0.00047140461105406247
+skill_mathematics,0.0004541957922752877
+skill_mlops,0.00044188597881295814
+skill_gcp,0.00043268412305921117
+skill_azure,0.00043194682951227197
+skill_tableau,0.0004066252229901777
+skill_aws,0.00039992636534588765
+skill_r,0.000396453137107401
+skill_spark,0.0003963193789664011
+skill_nlp,0.00037765818344078
+skill_statistics,0.00033911102638910554
+skill_docker,0.0003299569009022555
+job_title_Research Scientist,0.0001961216121534359
+industry_Media,0.00018748788727666793
+industry_Consulting,0.00018396757747549976
+industry_Telecommunications,0.0001806098704592383
+industry_Gaming,0.00017783394718387998
+industry_Healthcare,0.00017440338082133148
+industry_Government,0.00017079829467460766
+industry_Manufacturing,0.00016969971001150826
+job_title_Data Analyst,0.00012892789970024977
+industry_Automotive,0.00012588276634935207
+industry_Retail,0.00012547847325691553
+job_title_Machine Learning Researcher,0.000124572693171766
+industry_Finance,0.00011610673778525313
+industry_Education,0.00011535303021290048
+industry_Transportation,0.00011501184356357103
+job_title_AI Product Manager,0.00011356285670771645
+industry_Real Estate,0.0001070049992875261
+job_title_Robotics Engineer,0.00010536615316869696
+job_title_Head of AI,9.239440380892591e-05
+job_title_Computer Vision Engineer,8.954828716929472e-05
+job_title_AI Research Scientist,8.813336125400507e-05
+job_title_Autonomous Systems Engineer,8.723906154120363e-05
+job_title_AI Consultant,8.38840238939678e-05
+job_title_Data Scientist,8.226483588469783e-05
+industry_Technology,7.751269887684229e-05
+job_title_ML Ops Engineer,7.742510647826147e-05
+industry_Energy,7.631015744007808e-05
+job_title_Principal Data Scientist,6.942616571145719e-05
+job_title_Machine Learning Engineer,6.74983925052971e-05
+job_title_AI Specialist,5.7630685677929124e-05
+job_title_AI Software Engineer,5.4734993508016234e-05
+job_title_Data Engineer,5.1359339888401374e-05
+job_title_AI Architect,4.985441686197837e-05
+job_title_NLP Engineer,4.892968055076365e-05
+job_title_Deep Learning Engineer,3.114312564116054e-05
+other_skills_count,0.0
